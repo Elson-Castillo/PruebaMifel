@@ -2,16 +2,16 @@
 Api protegida con spring security y JWT
 
 Tecnologías utilizadas para crear la API: 
-Java 11
-Spring-Boot versión 2.7.18
-Spring-Security
-JWT
-Lombok
-H2
-JPA
-Maven
-Postman: como cliente.
-IDE usado: Inteliji IDEA 
+Java 11,
+Spring-Boot versión 2.7.18,
+Spring-Security,
+JWT,
+Lombok,
+H2,
+JPA,
+Maven,
+Postman: como cliente,
+IDE usado: Inteliji IDEA.
 
 Para utilizar la AP,I descargar o clonar el proyecto de este repositorio, correr el proeycto en el IDE de su preferencia (Aunque para este proyecto fue utilizado inteliji IDEA)
 
